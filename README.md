@@ -1,2 +1,11 @@
-# drive-english-releases
-Drive English Android APK releases. Application source is not published.
+# Drive English
+
+Android용 개인 영어 학습 앱의 APK 배포 저장소입니다.
+
+- 자유 토킹과 문장셋 반복 연습을 지원합니다.
+- Android 10 이상에서 사용할 수 있습니다.
+- 사용자가 본인의 OpenAI API 키를 앱 설정에 입력합니다.
+- APK는 Releases에서 다운로드합니다. 업데이트 설치는 정차한 상태에서 진행하세요.
+- 이 저장소에는 앱 소스 코드, API 키, 서명 키를 공개하지 않습니다.
+
+릴리스 정보와 파일은 곧 추가됩니다.
