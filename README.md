@@ -8,4 +8,4 @@ Android용 개인 영어 학습 앱의 APK 배포 저장소입니다.
 - APK는 Releases에서 다운로드합니다. 업데이트 설치는 정차한 상태에서 진행하세요.
 - 이 저장소에는 앱 소스 코드, API 키, 서명 키를 공개하지 않습니다.
 
-릴리스 정보와 파일은 곧 추가됩니다.
+[최신 APK와 변경 사항 보기](https://github.com/JohniYu/drive-english-releases/releases/latest)
